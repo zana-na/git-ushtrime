@@ -1,0 +1,1 @@
+console.log("footer logo1")
